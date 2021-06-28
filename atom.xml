@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>萌生</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.adba.club/"/>
+  <updated>2021-06-28T04:29:05.334Z</updated>
+  <id>http://www.adba.club/</id>
+  
+  <author>
+    <name>Cad</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>祝一切安好</title>
+    <link href="http://www.adba.club/file/%E9%9A%8F%E7%AC%94/2021%E5%B9%B4/%E6%97%A0.html"/>
+    <id>http://www.adba.club/file/随笔/2021年/无.html</id>
+    <published>2021-06-28T04:07:40.000Z</published>
+    <updated>2021-06-28T04:29:05.334Z</updated>
+    
+    <content type="html"><![CDATA[<p>祝你早安，午安，晚安。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;祝你早安，午安，晚安。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
